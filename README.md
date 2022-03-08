@@ -1,4 +1,4 @@
-# Hi I'm Magnovaldo Carneiro. You can call Magno, for short.
+# Hi I'm Magnovaldo Carneiro.
 
 ### About me:
 <p>
