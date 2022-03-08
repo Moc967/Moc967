@@ -39,7 +39,7 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 
 
-### Studying in this moment:
+### Studying at this moment:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![DataScience](https://img.shields.io/badge/-Data_Science-3498DB?style=for-the-badge&logo=teste&labelColor=1f004e)&nbsp;
@@ -47,7 +47,8 @@
 ### Areas of Interest:
 
 ![AI](https://img.shields.io/badge/Artificial_Intelligence-FF0000?style=for-the-badge&logo=AI&labelColor=1f004e)&nbsp;
-
+![DataScience](https://img.shields.io/badge/-Data_Science-3498DB?style=for-the-badge&logo=teste&labelColor=1f004e)&nbsp;
+     
 ### GitHub Analytics:
 
 <p align="left">
