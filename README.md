@@ -2,9 +2,9 @@
 
 ### About me:
 <p>
-    I am in career transition to Data Scientist and SW Developer, certified professional HCIA-AI by the Huawei Technologies Co. I am majoring as bachelor's Computer Engineer (Univesp) and I am graduated as bachelor's degree in Mathmatics (UCSAL).
+     I am in career transition to Data Scientist and SW Developer, certified professional in AI by the Huawei Technologies Co. I am majoring as bachelor's Computer Engineer (Univesp) and I am graduated as bachelor's degree in Mathematics (UCSAL).
 <p>
-    Always involved with technology since the beginning of my career and passionate about learning, I'm always looking to identify ways to apply my experience and background to automate processes, adding intelligence to the business. I have ease to work with groups, good relationship with people, responsibility and leadership spirit.
+    Always involved with technology since the beginning of my career and passionate about learning, I'm always looking for opportunities to  and new ways to apply my experience and background to automate processes, adding intelligence to the business. I have ease to work with groups, good relationship with people, responsibility and leadership spirit.
 
 ### Main skills:
 
@@ -42,17 +42,17 @@
 ### Studying in this moment:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![AI](https://img.shields.io/badge/-Artificial%20Intelligence-e152aa?style=for-the-badge&logo=teste&labelColor=1f004e)&nbsp;
+![DataScience](https://img.shields.io/badge/-Data_Science-3498DB?style=for-the-badge&logo=teste&labelColor=1f004e)&nbsp;
 
 ### Areas of Interest:
 
-![DataScience](https://img.shields.io/badge/DataScience-3776AB?style=for-the-badge&logo=AI&labelColor=1f004e)&nbsp;
+![AI](https://img.shields.io/badge/Artificial_Intelligence-FF0000?style=for-the-badge&logo=AI&labelColor=1f004e)&nbsp;
 
 ### GitHub Analytics:
 
 <p align="left">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=Moc967&title_color=black&icon_color=white&text_color=5ce1e6&bg_color=1f004e&border_color=whitec&show_icons=true"/>
-  <img height="145em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Moc967&layout=compact&title_color=black&icon_color=ff66c4&text_color=5ce1e6&bg_color=1f004e&show_icons=true"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=Moc967&title_color=000000&icon_color=black&text_color=0000FF&bg_color=1FFB89&border_color=34DB85&show_icons=true"/>
+  <img height="145em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Moc967&layout=compact&title_color=000000&icon_color=000000&text_color=0000FF&bg_color=1FFB89&show_icons=true"/>
 </p>
 
 ### Magnovaldo Carneiro on social media:
