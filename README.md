@@ -1,8 +1,8 @@
-# Hi I'm Magnovaldo Carneiro.
+# Hi I'm Magnovaldo Carneiro
 
 ### About me
 <p>
-     Sr Supply Chain manager specialized in Support Services for information technology companies, in career transition to Data Scientist and SW Developer, certified in AI by the Huawei Technologies Co. Majoring as bachelor's Computer Engineer (Univesp) and graduated as bachelor's degree in Mathematics (UCSAL).
+     Sr Supply Chain manager specialized in Support Services for Information Technology companies, in career transition to Data Scientist and SW Developer, certified in AI by the Huawei Technologies Co. Majoring as bachelor's Computer Engineer (Univesp) and graduated as bachelor's degree in Mathematics (UCSAL).
 <p>
     Always involved with technology since the beginning of his career and passionate about learning, he is always looking for opportunities and new ways to apply his experience and background to automate processes, adding intelligence to the business. He has ease to work with groups, good relationship with people, responsibility and leadership spirit.
 
