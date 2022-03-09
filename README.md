@@ -2,7 +2,7 @@
 
 ### About me
 <p>
-     Sr Supply Chain manager specialized in Support Services for Information Technology companies, in career transition to Data Scientist and SW Developer, certified in AI by the Huawei Technologies Co. Majoring as bachelor's Computer Engineer (Univesp) and graduated as bachelor's degree in Mathematics (UCSAL).
+     Sr Supply Chain manager specialized in support services for Information Technology, in career transition to Data Scientist and SW Developer, certified in AI by the Huawei Technologies Co. Majoring as bachelor's Computer Engineer (Univesp) and graduated as bachelor's degree in Mathematics (UCSAL).
 <p>
     Always involved with technology since the beginning of his career and passionate about learning, he is always looking for opportunities and new ways to apply his experience and background to automate processes, adding intelligence to the business. He has ease to work with groups, good relationship with people, responsibility and leadership spirit.
 
@@ -10,7 +10,6 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
@@ -31,14 +30,14 @@
 
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)&nbsp;
 ![Boostrap](https://img.shields.io/badge/-boostrap-e152aa?style=for-the-badge&logo=bootstrap&labelColor=1f004e)&nbsp;
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)&nbsp;
 ![Power_BI](https://img.shields.io/badge/Microsoft_Power_BI-217346?style=for-the-badge&logo=power-bi&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)&nbsp;
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
-
 
 ### Studying at this moment
 
