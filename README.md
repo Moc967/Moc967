@@ -53,8 +53,8 @@
 ### GitHub Analytics
 
 <p align="left">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=Moc967&title_color=000000&icon_color=black&text_color=0000FF&bg_color=1FFB89&border_color=34DB85&show_icons=true"/>
-  <img height="145em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Moc967&layout=compact&title_color=000000&icon_color=000000&text_color=0000FF&bg_color=1FFB89&show_icons=true"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=moc967&show_icons=true&theme=merko"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moc967&hide=css,html&layout=compact&theme=merko"/>
 </p>
 
 ### Magnovaldo Carneiro on social media
