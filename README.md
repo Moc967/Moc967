@@ -1,12 +1,12 @@
 # Hi I'm Magnovaldo Carneiro.
 
-### About me:
+### About me
 <p>
-     I am in career transition to Data Scientist and SW Developer, certified professional in AI by the Huawei Technologies Co. I am majoring as bachelor's Computer Engineer (Univesp) and I am graduated as bachelor's degree in Mathematics (UCSAL).
+     Sr Supply Chain manager specialized in Support Services for information technology companies, in career transition to Data Scientist and SW Developer, certified in AI by the Huawei Technologies Co. Majoring as bachelor's Computer Engineer (Univesp) and graduated as bachelor's degree in Mathematics (UCSAL).
 <p>
-    Always involved with technology since the beginning of my career and passionate about learning, I'm always looking for opportunities to  and new ways to apply my experience and background to automate processes, adding intelligence to the business. I have ease to work with groups, good relationship with people, responsibility and leadership spirit.
+    Always involved with technology since the beginning of his career and passionate about learning, he is always looking for opportunities to  and new ways to apply his experience and background to automate processes, adding intelligence to the business. He has ease to work with groups, good relationship with people, responsibility and leadership spirit.
 
-### Main skills:
+### Main skills
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
@@ -16,7 +16,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 
 
-### Tools:
+### Tools
 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-1B91E0?style=for-the-badge&logo=visual-studio-code&logoColor=1B91E0&labelColor=1f004e)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-e152aa?style=for-the-badge&logo=visual-studio-code&logoColor=e152aa&labelColor=1f004e)&nbsp;
@@ -27,11 +27,12 @@
 ![Windows](https://img.shields.io/badge/-Windows-00FFFF?style=for-the-badge&logo=windows&labelColor=00FFFF)&nbsp;
 ![Linux](https://img.shields.io/badge/-linux-FFC000?style=for-the-badge&logo=linux&logoColor=000000&labelColor=FFC000)&nbsp;
 
-### Other Knowledge:
+### Other Knowledge
 
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)&nbsp;
 ![Boostrap](https://img.shields.io/badge/-boostrap-e152aa?style=for-the-badge&logo=bootstrap&labelColor=1f004e)&nbsp;
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)&nbsp;
+![Power_BI](https://img.shields.io/badge/Microsoft_Power_BI-217346?style=for-the-badge&logo=power-bi&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)&nbsp;
@@ -39,7 +40,7 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 
 
-### Studying at this moment:
+### Studying at this moment
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![DataScience](https://img.shields.io/badge/-Data_Science-3498DB?style=for-the-badge&logo=teste&labelColor=1f004e)&nbsp;
