@@ -4,7 +4,7 @@
 <p>
      Sr Supply Chain manager specialized in Support Services for information technology companies, in career transition to Data Scientist and SW Developer, certified in AI by the Huawei Technologies Co. Majoring as bachelor's Computer Engineer (Univesp) and graduated as bachelor's degree in Mathematics (UCSAL).
 <p>
-    Always involved with technology since the beginning of his career and passionate about learning, he is always looking for opportunities to  and new ways to apply his experience and background to automate processes, adding intelligence to the business. He has ease to work with groups, good relationship with people, responsibility and leadership spirit.
+    Always involved with technology since the beginning of his career and passionate about learning, he is always looking for opportunities and new ways to apply his experience and background to automate processes, adding intelligence to the business. He has ease to work with groups, good relationship with people, responsibility and leadership spirit.
 
 ### Main skills
 
@@ -45,19 +45,19 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![DataScience](https://img.shields.io/badge/-Data_Science-3498DB?style=for-the-badge&logo=teste&labelColor=1f004e)&nbsp;
 
-### Areas of Interest:
+### Areas of Interest
 
 ![AI](https://img.shields.io/badge/Artificial_Intelligence-FF0000?style=for-the-badge&logo=AI&labelColor=1f004e)&nbsp;
 ![DataScience](https://img.shields.io/badge/-Data_Science-3498DB?style=for-the-badge&logo=teste&labelColor=1f004e)&nbsp;
      
-### GitHub Analytics:
+### GitHub Analytics
 
 <p align="left">
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=Moc967&title_color=000000&icon_color=black&text_color=0000FF&bg_color=1FFB89&border_color=34DB85&show_icons=true"/>
   <img height="145em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Moc967&layout=compact&title_color=000000&icon_color=000000&text_color=0000FF&bg_color=1FFB89&show_icons=true"/>
 </p>
 
-### Magnovaldo Carneiro on social media:
+### Magnovaldo Carneiro on social media
 <p>
 <a href="https://www.linkedin.com/in/magnovaldo-carneiro/"><img src="https://img.shields.io/badge/-Linkedin-0096FF?style=for-the-badge&logo=Linkedin&logoColor=000000"/></a>
 <a href="mailto:magnovaldo.carneiro@gmail.com"><img src="https://img.shields.io/badge/-eMail-E34F26?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
