@@ -60,5 +60,6 @@
 
 <a href="https://www.linkedin.com/in/magnovaldo-carneiro/"><img src="https://img.shields.io/badge/-Linkedin-0096FF?style=for-the-badge&logo=Linkedin&logoColor=0096FF"/></a>
 <a href="mailto:magnovaldo.carneiro@gmail.com"><img src="https://img.shields.io/badge/-eMail-E34F26?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+<a href="https://twitter.com/magno967"><img src="https://img.shields.io/badge/-twitter-0096FF?style=for-the-badge&logo=twitter&logoColor=0096FF"/></a>
     </a>
 </p>
