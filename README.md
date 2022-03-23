@@ -17,9 +17,12 @@
 
 ### Tools
 
+
+![Anaconda](https://img.shields.io/badge/-Anaconda-107C10?style=for-the-badge&logo=conda-code&logoColor=1B91E0&labelColor=1f004e)&nbsp;
 ![VS Code](https://img.shields.io/badge/-VS%20Code-1B91E0?style=for-the-badge&logo=visual-studio-code&logoColor=1B91E0&labelColor=1f004e)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-e152aa?style=for-the-badge&logo=visual-studio-code&logoColor=e152aa&labelColor=1f004e)&nbsp;
 ![Intelij](https://img.shields.io/badge/-InteliJ-E0351B?style=for-the-badge&logo=intelij&logoColor=E0351B&labelColor=1f004e)&nbsp;
+![Jupyter_Notebook](https://img.shields.io/badge/Jupyter_Notebook-F17925?style=for-the-badge&logo=jupyter&logoColor=000000)&nbsp;
 ![PyCharm](https://img.shields.io/badge/-PyCharm-00A36C?style=for-the-badge&logo=pycharm&logoColor=black&labelColor=FFEA00)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-808080?style=for-the-badge&logo=git&logoColor=white&labelColor=F12F1Ce)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-4169E1?style=for-the-badge&logo=github&labelColor=4169E1)&nbsp;
