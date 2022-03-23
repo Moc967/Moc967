@@ -9,7 +9,7 @@
 ### Main skills
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-094782?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
@@ -38,6 +38,8 @@
 ![MYSQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Spring](https://img.shields.io/badge/Spring-GREEN?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 ![Maven](https://img.shields.io/badge/Maven-000000?style=for-the-badge&logo=maven&logoColor=white)&nbsp;
+![Matplotlib](https://img.shields.io/badge/Matplotlib-002050?style=for-the-badge&logo=matplotlib&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/Pandas-gray?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)&nbsp;
 
