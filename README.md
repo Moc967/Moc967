@@ -42,6 +42,9 @@
 ![Spring](https://img.shields.io/badge/Spring-GREEN?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 ![Maven](https://img.shields.io/badge/Maven-000000?style=for-the-badge&logo=maven&logoColor=white)&nbsp;
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-002050?style=for-the-badge&logo=matplotlib&logoColor=white)&nbsp;
+![Tensorflow](https://img.shields.io/badge/Tensorflow-e87200?style=for-the-badge&logo=tensorflow&logoColor=white)&nbsp;
+![Keras](https://img.shields.io/badge/Keras-d82c20?style=for-the-badge&logo=keras&logoColor=white)&nbsp;
+![OpenCV](https://img.shields.io/badge/OpenCV-0b31a5?style=for-the-badge&logo=opencv&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/Pandas-gray?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)&nbsp;
