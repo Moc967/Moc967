@@ -2,7 +2,7 @@
 
 ### About me
 <p>
-     Sr Supply Chain and Delivery manager specialized in support services for Information Technology, in career transition to Data Scientist and SW Developer, certified in AI by the Huawei Technologies Co. Majoring as bachelor's Computer Engineering (Univesp) and graduated as bachelor's Mathematics (UCSAL).
+     Sr Supply Chain and Delivery manager specialized in support services for Information Technology, Data Scientist and SW Developer, certified in AI by the Huawei Technologies Co. Majoring as bachelor's Computer Engineering (Univesp) and graduated in Mathematics (UCSAL).
 <p>
     Always involved with technology since the beginning of his career and passionate about learning, he is always looking for opportunities and new ways to apply his experience and background to automate processes, adding intelligence to the business. He has ease to work with groups, good relationship with people, responsibility and leadership spirit.
 
