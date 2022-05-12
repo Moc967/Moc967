@@ -26,6 +26,7 @@
 ![PyCharm](https://img.shields.io/badge/-PyCharm-00A36C?style=for-the-badge&logo=pycharm&logoColor=black&labelColor=FFEA00)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-808080?style=for-the-badge&logo=git&logoColor=white&labelColor=F12F1Ce)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-4169E1?style=for-the-badge&logo=github&labelColor=4169E1)&nbsp;
+![MacOS](https://img.shields.io/badge/-Mac_os-gray?style=for-the-badge&logo=macos&labelColor=gray)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-00FFFF?style=for-the-badge&logo=windows&labelColor=00FFFF)&nbsp;
 ![Linux](https://img.shields.io/badge/-linux-FFC000?style=for-the-badge&logo=linux&logoColor=000000&labelColor=FFC000)&nbsp;
 
