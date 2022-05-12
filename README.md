@@ -50,7 +50,9 @@
 ![Pandas](https://img.shields.io/badge/Pandas-gray?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)&nbsp;
-
+![Google Cloud](https://img.shields.io/badge/Google_Cloud_Platform-2C73D2?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
+![Data Studio](https://img.shields.io/badge/Google_Data_Studio-033E8D?style=for-the-badge&logo=google-datastudio&logoColor=white)&nbsp;     
+     
 ### Studying at this moment
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
