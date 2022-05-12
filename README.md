@@ -2,9 +2,19 @@
 
 ### About me
 <p>
-     Data Scientist and SW Developer, certified in AI by the Huawei Technologies Co. Majoring as bachelor's Computer Engineering (Univesp) and graduated in Mathematics (UCSAL). He is also Sr Supply Chain and Delivery manager specialized in support services for Information Technology companies.
+Data Scientist and SW Developer, certified in AI by the Huawei Technologies Co. Majoring as bachelor's Computer Engineering (Univesp) and graduated in Mathematics (UCSAL). He is also Sr Supply Chain and Delivery manager specialized in support services for Information Technology companies.</p>
 <p>
-    Always involved with technology since the beginning of his career and passionate about learning, he is always looking for opportunities and new ways to apply his experience and background to automate processes, adding intelligence to the business. He has ease to work with groups, good relationship with people, responsibility and leadership spirit.
+Always involved with technology since the beginning of his career and passionate about learning, he is always looking for opportunities and new ways to apply his experience and background to automate processes, adding intelligence to the business. He has ease to work with groups, good relationship with people, responsibility and leadership spirit.</p>
+
+___
+
+### Sobre mim
+<p>
+Cientista de Dados e desenvolvedor de SW, certificado em IA pela Huawei Technologies Co. Graduando em Engenharia de Computação (Univesp) e graduado em Matemática (UCSAL). Gerente sênior de Supply Chain e Delivery, especializado em serviços de suporte para empresas de Tecnologia da Informação.</p>
+<p>
+Sempre envolvido com tecnologia desde o início de sua carreira e apaixonado por aprender, está sempre em busca de oportunidades e novas formas de aplicar sua experiência e conhecimento para automatizar processos, agregando inteligência ao negócio. Possui facilidade para trabalhar com grupos, bom relacionamento com pessoas, responsabilidade e espírito de liderança.</p>
+
+___
 
 ### Main skills
 
