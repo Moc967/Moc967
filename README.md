@@ -67,6 +67,7 @@ ___
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![DataScience](https://img.shields.io/badge/-Data_Science-3498DB?style=for-the-badge&logo=teste&labelColor=1f004e)&nbsp;
+![Scrum](https://img.shields.io/badge/Scrum-ED8B00?style=for-the-badge&logo=scrum&logoColor=white)&nbsp;
 
 ### Areas of Interest
 
