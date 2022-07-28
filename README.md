@@ -18,7 +18,7 @@ ___
 
 ### Main skills
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=black)&nbsp;
 ![Python](https://img.shields.io/badge/Python-094782?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
@@ -72,8 +72,9 @@ ___
 ### Areas of Interest
 
 ![AI](https://img.shields.io/badge/Artificial_Intelligence-FF0000?style=for-the-badge&logo=AI&labelColor=1f004e)&nbsp;
-![DataScience](https://img.shields.io/badge/-Data_Science-3498DB?style=for-the-badge&logo=teste&labelColor=1f004e)&nbsp;
-     
+![Ethics](https://img.shields.io/badge/-Ethics-yellowgreen?style=for-the-badge&logo=ethics&labelColor=1f004e)&nbsp;
+![DataScience](https://img.shields.io/badge/-Data_Science-3498DB?style=for-the-badge&logo=data-science&labelColor=1f004e)&nbsp;
+
 ### GitHub Analytics
 
 <p align="left">
