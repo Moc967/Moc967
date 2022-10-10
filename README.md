@@ -2,7 +2,7 @@
 
 ### About me
 <p>
-Data Product Owner, Data Scientist, and Software Developer certified in AI by Huawei Technologies Co, bachelor in Computer Engineering (Univesp), and graduate in Mathematics (UCSAL). He was also Sr Supply Chain and Delivery manager specializing in support services for Information Technology companies.</p>
+Data Product Owner, Data Scientist, and Software Developer certified in AI by Huawei Technologies Co, bachelor in Computer Engineering (Univesp), and graduate in Mathematics (UCSAL). Sr Supply Chain and Delivery manager specializing in support services for Information Technology companies.</p>
 <p>
 Always involved with technology since the beginning of his career and passionate about learning, he is always looking for opportunities and new ways to apply his experience and background to map and automate processes, adding intelligence to the business. He has easy work with groups, good relationships with people, responsibility, and a leadership spirit.</p>
 
@@ -10,7 +10,7 @@ ___
 
 ### Sobre mim
 <p>
-Cientista de Dados e desenvolvedor de SW, certificado em IA pela Huawei Technologies Co. Graduado em Engenharia de Computação (Univesp) e Matemática (UCSAL). Gerente Sênior de Supply Chain e Delivery, especializado em serviços de suporte para empresas de Tecnologia da Informação.</p>
+Data Product Owner, Cientista de Dados e Desenvolvedor de SW, certificado em IA pela Huawei Technologies Co, graduado em Engenharia de Computação (Univesp) e Matemática (UCSAL). Gerente Sênior de Supply Chain e Delivery, especializado em serviços de suporte para empresas de Tecnologia da Informação.</p>
 <p>
 Sempre envolvido com tecnologia desde o início de sua carreira e apaixonado por aprender, está sempre em busca de oportunidades e novas formas de aplicar sua experiência e conhecimento para mapear e automatizar processos, agregando inteligência ao negócio. Possui facilidade para trabalhar com grupos, bom relacionamento com pessoas, responsabilidade e espírito de liderança.</p>
 
