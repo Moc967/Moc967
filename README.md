@@ -2,7 +2,7 @@
 
 ### About me
 <p>
-Data Scientist and SW Developer, certified in AI by the Huawei Technologies Co. Majoring as bachelor's Computer Engineering (Univesp) and graduated in Mathematics (UCSAL). He is also Sr Supply Chain and Delivery manager specialized in support services for Information Technology companies.</p>
+Data Scientist and SW Developer, certified in AI by the Huawei Technologies Co. bachelor's Computer Engineering (Univesp) and graduated in Mathematics (UCSAL). He is also Sr Supply Chain and Delivery manager specialized in support services for Information Technology companies.</p>
 <p>
 Always involved with technology since the beginning of his career and passionate about learning, he is always looking for opportunities and new ways to apply his experience and background to map and automate processes, adding intelligence to the business. He has ease to work with groups, good relationship with people, responsibility and leadership spirit.</p>
 
