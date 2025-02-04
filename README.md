@@ -18,9 +18,9 @@ ___
 
 ### Main skills
 
-![SQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)&nbsp;
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)&nbsp;
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud_Platform-2C73D2?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
-![Data Studio](https://img.shields.io/badge/Google_Data_Studio-033E8D?style=for-the-badge&logo=google-datastudio&logoColor=white)&nbsp;  
+![Big Query](https://img.shields.io/badge/Google_BigQuery-033E8D?style=for-the-badge&logo=google-datastudio&logoColor=white)&nbsp;  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=black)&nbsp;
 ![Python](https://img.shields.io/badge/Python-094782?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
