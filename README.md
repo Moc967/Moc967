@@ -86,7 +86,7 @@ ___
 <p>
 <a href="https://www.linkedin.com/in/magno-carneiro/"><img src="https://img.shields.io/badge/-Linkedin-0096FF?style=for-the-badge&logo=Linkedin&logoColor=000000"/></a>
 <a href="mailto:magnovaldo.carneiro@gmail.com"><img src="https://img.shields.io/badge/-eMail-E34F26?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
-<a href="https://x.com/magno967"><img src="https://img.shields.io/badge/-X-0096FF?style=for-the-badge&logo=twitter&logoColor=000000"/></a>
+<a href="https://x.com/magno967"><img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=twitter&logoColor=FFFFFF"/></a>
 <a href="https://www.instagram.com/magno_carneiro/"><img src="https://img.shields.io/badge/-instagram-6E1FFB?style=for-the-badge&logo=instagram&logoColor=0096FF"/></a>    
   
 </p>
